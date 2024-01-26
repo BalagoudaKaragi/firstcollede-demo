@@ -1,2 +1,2 @@
-# firstcollede-demo
+# firstcollege-demo
 this is my first git repository
